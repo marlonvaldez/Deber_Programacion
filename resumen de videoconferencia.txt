@@ -1,0 +1,2 @@
+el Git es una herramienta que nos ayuda en la creacion de repositorios, los mismos que nos sirven para almacenar informacion, datos del proyecto en curso 
+al semestre asignado.
